@@ -1,0 +1,17 @@
+C:\Users\vanaj\source\repos\Konvert\bin\Debug\net6.0\Konvert.exe
+C:\Users\vanaj\source\repos\Konvert\bin\Debug\net6.0\Konvert.deps.json
+C:\Users\vanaj\source\repos\Konvert\bin\Debug\net6.0\Konvert.runtimeconfig.json
+C:\Users\vanaj\source\repos\Konvert\bin\Debug\net6.0\Konvert.dll
+C:\Users\vanaj\source\repos\Konvert\bin\Debug\net6.0\Konvert.pdb
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.csproj.AssemblyReference.cache
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.AssemblyInfoInputs.cache
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.AssemblyInfo.cs
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.csproj.CoreCompileInputs.cache
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.dll
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\refint\Konvert.dll
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.pdb
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.genruntimeconfig.cache
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\ref\Konvert.dll
+C:\Users\vanaj\source\repos\Konvert\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vanaj\source\repos\Konvert\obj\Debug\net6.0\Konvert.csproj.CopyComplete
